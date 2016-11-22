@@ -1,0 +1,13 @@
+h1 {
+  text-align: center
+
+}
+
+div.container {
+float: left;
+width: 20%;
+height: 200px;
+margin: 0, auto;
+margin-left: 10%;
+background-color: gray;
+}
